@@ -1,0 +1,11 @@
+[package]
+name = "text_analyzer"
+version = "0.1.0"
+authors = ["Owen Zonneveld <owenzonneveld@gmail.com>"]
+description = "Tool that counts the occurence of each letter"
+categories = ["command-line-utilities"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
