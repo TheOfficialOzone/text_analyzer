@@ -2,7 +2,12 @@
 name = "text_analyzer"
 version = "0.1.0"
 authors = ["Owen Zonneveld <owenzonneveld@gmail.com>"]
+license = "Apache-2.0"
 description = "Tool that counts the occurence of each letter"
+readme = "README.md"
+homepage = "https://github.com/TheOfficialOzone/text_analyzer.git"
+repository = "https://github.com/TheOfficialOzone/text_analyzer.git"
+keywords = ["cli", "text", "analyzer"]
 categories = ["command-line-utilities"]
 edition = "2021"
 
